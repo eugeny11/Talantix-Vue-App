@@ -8,7 +8,7 @@
 
 `Schedule Vue App` is a demonstration Vue.js application designed to display a list of employees based on the selected city and department.
 
-### Установка (Installation)
+### Установка
 
 Клонируйте репозиторий:
 
@@ -26,7 +26,7 @@ Navigate to the project directory and install the dependencies:
 cd ScheduleVueApp
 npm install
 
-### Запуск (Usage)
+### Запуск
 Для запуска приложения выполните:
 
 npm run serve
